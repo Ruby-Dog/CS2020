@@ -1,2 +1,4 @@
 https://blog.miniasp.com/post/2010/08/27/Linux-find-command-tips-and-notice
-<pre><code> find $HOME -name '*.mp3'</code></pre>
+```
+find $HOME -name '*.mp3'
+```
