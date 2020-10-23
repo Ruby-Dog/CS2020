@@ -7,4 +7,5 @@
 
 OSI and  tcp /ip
 >https://www.jianshu.com/p/a7579301747a  
+>https://www.techbang.com/posts/15859-network-architecture-2-arpanet-history-and-introduction-to-mac-ip-dns-concepts-review  
 >http://ccnatiy.blogspot.com/p/osi.html  
