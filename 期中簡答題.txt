@@ -1,0 +1,72 @@
+bandwith
+1.頻寬
+2.在一條傳輸路徑中,固定時間可傳輸的資料量
+3.有效頻寬愈大,傳輸速率愈高
+
+bps
+1.英文全名 bits per second
+2.每秒傳輸或處理的位元數
+3.是一種位元速率(bit rate)
+
+->Bandwith的計量單位是bps
+-------------------------------------
+
+RFID
+1.英文全名 Radio Frenquecny Identifiaction
+2.用「無線電訊號」識別目標並讀寫數據
+3.用於 : 鈔票防偽  門禁系統
+
+NFC
+1.英文全名 Near-Field Communication
+2.一種通訊協定 讓裝置在幾公分以內做通訊
+3.用於 : 行動支付
+
+cellular network
+1.蜂巢式網路
+2.又稱 行動網路 moblie network
+3.如 LTE　3G 4G 5G
+
+technology addiction
+1.只對網路的過度使用,影響到日常生活
+2.對網路有強烈的渴望與衝動感
+3.WHO將「電玩成癮」列為一種精神疾病
+
+Crowdsourcing
+1.群眾外包
+2.將過去指派給固定員工的工作 , 公開地交給網路上一大群人來完成
+3.例:維基百科
+
+Crowdfunding
+1.群眾募資
+2.把想法放在網路上 , 讓支持你的人募資 , 以繼續計畫和事業
+3.募資平台 : 嘖嘖
+
+metadata
+1.中繼資料
+2.用來描述其他資料的資料
+3.例 : 相片拍攝地點的GPS 相片拍攝者的名字
+
+CMS
+1.英文全名 Content Management System
+2.一種讓一群使用者共同維護和發行各種內容的軟體
+3.例 : wordpress
+
+DDOS
+1.英文全名 disturbed deinal-of-service attack
+2.利用多台電腦攻擊單一server的阻斷服務攻擊
+3.被感染惡意病毒而被攻擊主使者控制的裝置叫做「殭屍zombie」
+
+Botnet
+1.殭屍網路
+2.指感染殭屍病毒的被挾持裝置所形成的網路
+3.用來 送垃圾郵件 , DDOS
+
+RWD
+1.英文全名 Responsive web design
+2.一種網頁設計的技術做法
+3.可使網站在不同裝置上瀏覽時,根據不同解析度皆有適合的呈現
+
+SEO
+1.英文全名 search engine optimization
+2.指根據搜尋引擎的運作規則來調整網站
+3.提高網站在搜尋引擎的排名
